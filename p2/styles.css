@@ -1,0 +1,30 @@
+.card {
+  border: 2px solid #cecece;
+  width: 350px;
+  padding: 0 20px 10px 20px;
+  -webkit-box-shadow: 10px 10px 5px 0px #e6e6e6;
+  -moz-box-shadow: 10px 10px 5px 0px #e6e6e6;
+  box-shadow: 10px 10px 5px 0px #e6e6e6;
+  box-sizing: border-box;
+}
+
+.info {
+  border: 2px solid #cecece;
+  padding: 0 20px;
+  width: 300px;
+  box-sizing: border-box;
+  margin: 10px 0;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
