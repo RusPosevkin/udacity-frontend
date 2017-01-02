@@ -1,0 +1,160 @@
+body {
+  max-width: 960px;
+  min-width: 300px;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #2d3c49;
+}
+
+.header {
+  border-bottom: 2px solid #7d97ad;
+  padding-bottom: 10px;
+  margin: 0 0 20px 0;
+}
+
+.img-responsive {
+  display:block;
+  max-width: 100%;
+  height: auto;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.text-muted {
+  color: #7d97ad;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-title {
+  text-align: right;
+  padding: 0;
+}
+
+.title-super {
+  font-size: 40px;
+  margin-bottom: 0;
+}
+
+.title-logo {
+  margin-top: 10px;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.text-link {
+  font-size: 12px;
+  text-decoration: none;
+  color: #2d3c49;
+}
+
+.works-section {
+  margin-bottom: 40px;
+}
+
+.profession {
+  margin: 0 auto;
+}
+
+.project-name {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    max-width: 700px;
+  }
+
+  .text-link {
+    font-size: 9px;
+  }
+
+}
+
+@media screen and (max-width: 640px) {
+  body {
+    max-width: 500px;
+  }
+  .title-logo {
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+  }
+
+  .header {
+    margin-bottom: 5px;
+  }
+
+  .title-super {
+    font-size: 26px;
+  }
+
+  .profession {
+    font-size: 12px;
+  }
+
+  .text-link {
+    font-size: 6px;
+    word-break: break-word;
+    vertical-align: top;
+  }
+
+  .project-name {
+    font-size: 12px;
+    margin: 0;
+  }
+
+  .text-muted {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+
+  .work-image {
+    width: 70%;
+    text-align: center;
+    display: inline-block;
+  }
+
+}
+
+@media screen and (max-width: 360px) {
+  body {
+    max-width: 300px;
+  }
+
+  .title-logo {
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+  }
+
+  .title-super {
+    font-size: 28px;
+    /*margin: 0;*/
+    padding: 0;
+  }
+
+  .profession {
+    font-size: 14px;
+  }
+
+  .text-link {
+    font-size: 7px;
+    word-break: break-word;
+  }
+
+  .project-name {
+    font-size: 12px;
+  }
+
+  .text-muted {
+    font-size: 16px;
+  }
+}
