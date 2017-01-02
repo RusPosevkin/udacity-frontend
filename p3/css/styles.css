@@ -1,6 +1,5 @@
 .container {
   max-width: 960px;
-  min-width: 300px;
   margin: 0 auto;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
@@ -14,12 +13,13 @@
 }
 
 .img-responsive {
-  display:block;
+  display: block;
   max-width: 100%;
   height: auto;
 }
 
-.text-thin {
+.title-super,
+.profession {
   font-weight: 100;
 }
 
@@ -69,19 +69,19 @@
 
 @media screen and (max-width: 768px) {
   .container {
-    max-width: 700px;
+    max-width: 680px;
   }
 
-  .text-link {
-    font-size: 9px;
+  .project {
+    margin-bottom: 20px;
   }
-
 }
 
 @media screen and (max-width: 640px) {
   .container {
     max-width: 500px;
   }
+
   .title-logo {
     width: 60px;
     height: 60px;
@@ -100,20 +100,15 @@
     font-size: 12px;
   }
 
-  .text-link {
-    font-size: 6px;
-    word-break: break-all;
-    vertical-align: top;
-  }
-
   .project-name {
-    font-size: 12px;
-    margin: 0;
+    font-size: 20px;
   }
 
   .text-muted {
-    font-size: 14px;
+    font-size: 22px;
     margin: 5px 0;
+    padding: 20px 0;
+    text-align: center;
   }
 
   .work-image {
@@ -121,7 +116,6 @@
     text-align: center;
     display: inline-block;
   }
-
 }
 
 @media screen and (max-width: 360px) {
@@ -144,16 +138,14 @@
     font-size: 14px;
   }
 
-  .text-link {
-    font-size: 7px;
-    word-break: break-all;
-  }
-
   .project-name {
-    font-size: 12px;
+    font-size: 20px;
+    padding-top: 10px;
   }
 
   .text-muted {
-    font-size: 16px;
+    font-size: 22px;
+    padding: 20px 0;
+    text-align: center;
   }
 }
