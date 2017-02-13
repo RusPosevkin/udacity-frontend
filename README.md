@@ -6,6 +6,14 @@ Front-End Web Developer Nanodegree by Udacity. January 2017
 
 ![Certificate of Completion](https://github.com/rusposevkin/udacity-frontend/raw/master/img/certificate-2.png "Certificate of Completion")
 
+## Projects
+* Build a Portfolio Site
+* Interactive Resume
+* Classic Arcade Game Clone
+* Website Optimization
+* Neighborhood Map
+* Feed Reader Testing
+
 ## Supporting Courses
 * [Responsive Web Design Fundamentals] (https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [Intro to HTML and CSS] (https://www.udacity.com/course/intro-to-html-and-css--ud304)
@@ -19,3 +27,4 @@ Front-End Web Developer Nanodegree by Udacity. January 2017
 * [Intro to AJAX] (https://www.udacity.com/course/intro-to-ajax--ud110)
 * [JavaScript Design Patterns] (https://www.udacity.com/course/javascript-design-patterns--ud989)
 * [JavaScript Testing] (https://www.udacity.com/course/javascript-testing--ud549)
+
