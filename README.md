@@ -7,6 +7,8 @@ Front-End Web Developer Nanodegree by Udacity. January 2017
 ![Certificate of Completion](https://github.com/rusposevkin/udacity-frontend/raw/master/img/certificate-2.png "Certificate of Completion")
 
 ## Projects
+* [Project 0-1. Mockup to Article] (https://github.com/RusPosevkin/udacity-frontend/tree/master/p1)
+* [Project 0-2. Animal Trading Cards] (https://github.com/RusPosevkin/udacity-frontend/tree/master/p2)
 * [Project 1. Build a Portfolio Site] (https://github.com/RusPosevkin/udacity-frontend/tree/master/p3)
 * [Project 2. Interactive Resume] (https://github.com/RusPosevkin/frontend-nanodegree-resume)
 * [Project 3. Classic Arcade Game Clone] (https://github.com/RusPosevkin/udacity-arcade-game)
