@@ -16,6 +16,7 @@ List of projects developed during Front-End Web Developer Nanodegree by Udacity.
 
 ### [Project 4. Website Optimization](https://github.com/RusPosevkin/udacity-performance-optimization)
 ### [Project 5. Neighborhood Map](https://github.com/RusPosevkin/udacity-neighborhood-map)
+![Neighborhood Map Project animation](https://raw.githubusercontent.com/RusPosevkin/udacity-neighborhood-map/master/Demo.gif "Neighborhood Map Project animation")
 ### [Project 6. Feed Reader Testing](https://github.com/RusPosevkin/udacity-feedreader-testing)
 
 ## Supporting Courses
