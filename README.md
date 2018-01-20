@@ -20,6 +20,8 @@ Single-page application featuring a map and list of some Saint Petersburg sights
 
 ![Neighborhood Map Project animation](https://raw.githubusercontent.com/RusPosevkin/udacity-neighborhood-map/master/Demo.gif "Neighborhood Map Project animation")
 ### [Project 6. Feed Reader Testing](https://github.com/RusPosevkin/udacity-feedreader-testing)
+[Jasmine](http://jasmine.github.io/) test suite for a web-based application that reads RSS feeds.
+
 ![Feed Reader Testing Demo image](https://raw.githubusercontent.com/RusPosevkin/udacity-feedreader-testing/master/demo.png "Feed Reader Testing Demo image")
 
 ## Supporting Courses
