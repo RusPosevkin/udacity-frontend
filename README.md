@@ -12,6 +12,8 @@ List of projects developed during Front-End Web Developer Nanodegree by Udacity.
 ### [Project 1. Build a Portfolio Site](https://github.com/RusPosevkin/udacity-frontend/tree/master/p3)
 ### [Project 2. Interactive Resume](https://github.com/RusPosevkin/frontend-nanodegree-resume)
 ### [Project 3. Classic Arcade Game Clone](https://github.com/RusPosevkin/udacity-arcade-game)
+Arcade game. Move hero to water and don't collide with bugs.
+
 ![Classic Arcade Game Clone Project animation](https://raw.githubusercontent.com/RusPosevkin/udacity-arcade-game/master/images/demo.gif "Classic Arcade Game Clone Project animation")
 
 ### [Project 4. Website Optimization](https://github.com/RusPosevkin/udacity-performance-optimization)
