@@ -11,6 +11,8 @@ List of projects developed during Front-End Web Developer Nanodegree by Udacity.
 ### [Project 0-2. Animal Trading Cards](https://github.com/RusPosevkin/udacity-frontend/tree/master/p2)
 Converting a design prototype into a functional webpage.
 
+![Animal Trading Cards Demo image](https://raw.githubusercontent.com/RusPosevkin/udacity-frontend/master/p2/demo.png "Animal Trading Cards Demo image")
+
 ### [Project 1. Build a Portfolio Site](https://github.com/RusPosevkin/udacity-frontend/tree/master/p3)
 
 ![Build a Portfolio Site Demo image](https://raw.githubusercontent.com/RusPosevkin/udacity-frontend/master/p3/demo.png "Build a Portfolio Site Demo image")
