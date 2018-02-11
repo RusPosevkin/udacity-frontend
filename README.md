@@ -23,7 +23,7 @@ Arcade game. Move hero to water and don't collide with bugs.
 ![Classic Arcade Game Clone Project animation](https://raw.githubusercontent.com/RusPosevkin/udacity-arcade-game/master/images/demo.gif "Classic Arcade Game Clone Project animation")
 
 ### [Project 4. Website Optimization](https://github.com/RusPosevkin/udacity-performance-optimization)
-The main purpose of this project is to optimize this boilerplate online portfolio for speed. In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques that have been picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
+The main purpose of the project is to optimize this boilerplate online portfolio for speed. In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques that have been picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
 ![Website Optimization Project image](https://raw.githubusercontent.com/RusPosevkin/udacity-performance-optimization/master/readme-images/pagespeed-mobile.png "Website Optimization Project image")
 ### [Project 5. Neighborhood Map](https://github.com/RusPosevkin/udacity-neighborhood-map)
